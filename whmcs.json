@@ -1,0 +1,30 @@
+{
+    "schema": "1.0",
+    "type": "whmcs-addons",
+    "name": "activation_adobe",
+    "license": "MIT",
+    "category": "other",
+    "description": {
+        "name": "Export activation Adobe",
+        "tagline": "FranceStudent - Export activation Adobe",
+        "long": "Cet addon permet d'exporter les activations Adobe des clients dans un fichier CSV.",
+        "features": [
+            "Export des activations Adobe",
+            "Fichier CSV"
+        ]
+    },
+    "logo": {
+        "filename": "logo.png"
+    },
+    "support": {
+        "homepage": "https:\/\/francestudent.org\/", 
+        "email": "support@francestudent.org",
+        "support_url": "https:\/\/discord.gg\/francestudent"
+    },
+    "authors": [
+        {
+            "name": "Loan François",
+            "homepage": "https:\/\/linkedin.com\/in\/loanfrancois\/"
+        }
+    ]
+}
